@@ -1,0 +1,18 @@
+# Virtual environments
+.venv
+
+# Environment variables (SECRET KEYS)
+.env
+
+# Python cache
+__pycache__/
+*.py[oc]
+
+# Build files
+build/
+dist/
+wheels/
+*.egg-info
+
+# Lock files
+uv.lock
